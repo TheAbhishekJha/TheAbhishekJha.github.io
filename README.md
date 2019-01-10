@@ -5,5 +5,5 @@ Portfolio Website of Abhishek Jha
 
 Credits:
 
-Wireframe - [Dominik Serafin](http://dominikserafin.github.io/aurora-template)
-
+Wireframe - 
+<a href="http://dominikserafin.github.io/aurora-template" target="_blank">Dominik Serafin</a>
